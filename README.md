@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### ⭐Have a Octotastic Day!⭐
 ##### ⚡ Currently, I'm
-###### 🌈 Pronouns: Non-binary,❤️He/Him & She/Her❤️
+###### 🌈 Pronouns: Candy-free Non-binary, but prefer She/Her❤️ a bit more
 ###### 🌱 Learning Computer Science, in the Orient
 ###### 🔭 Persuing for an offer in Silicon Valley, CA
 ###### 🤔 I’m looking for help with C/C++ Programming 
