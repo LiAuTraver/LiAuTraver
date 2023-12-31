@@ -1,5 +1,6 @@
 ### Hi there 👋
-#### ⭐Have a Octotastic Day!⭐
+#### ⭐This is LiAuTraver⭐
+#### ⭐I like eating children⭐
 <!--
 ######🌈 Pronouns: Candy-free Non-binary, but prefer She/Her❤️ a bit more
 ###### 🌱 Learning Computer Science, in the Orient
