@@ -1,6 +1,8 @@
 ### Hi there 👋
 #### ⭐This is LiAuTraver⭐
 #### ⭐I like eating children⭐
+##### Currently delving into C++ intensively
+##### Passionate about Java, computer graphics, and, of course, game modding!
 <!--
 ######🌈 Pronouns: Candy-free Non-binary, but prefer She/Her❤️ a bit more
 ###### 🌱 Learning Computer Science, in the Orient
