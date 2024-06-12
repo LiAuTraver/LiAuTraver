@@ -1,0 +1,17 @@
+name: Info (used metrics)
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule: [{cron: "0 16 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:             
+      - name: Metrics embed
+      - uses: lowlighter/metrics@v3.34
+
