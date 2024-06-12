@@ -1,25 +1,22 @@
-### Hi there 👋
-#### ⭐This is LiAuTraver⭐
-#### ⭐I like eating children⭐
-<!--
-######🌈 Pronouns: Candy-free Non-binary, but prefer She/Her❤️ a bit more
-###### 🌱 Learning Computer Science, in the Orient
-###### 🔭 Persuing for an offer in Silicon Valley, CA
-###### 🤔 I’m looking for help with C/C++ Programming 
---!>
+<!-- <div align="center">
+  <img src="./avatar.JPG" >
+  <h1>LiAuTraver</h1>
+</div> -->
 
+<!-- <div align="center">
+  You can find my website here
+</br>
+  https://...
+</div> -->
+<div align="center">
+<h1>Heyo, I'm LiAuTraver</h1>
+</div>
+<div align="center">
+  <h2>📊 Statistics</h2>
 
-<!--
-**LiAuTraver/LiAuTraver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Repos Badge](https://badges.strrl.dev/repos/LiAuTraver) ![Commits Badge](https://badges.strrl.dev/commits/all/LiAuTraver) ![Contributions Badge](https://badges.strrl.dev/contributions/all/LiAuTraver) ![Years Badge](https://badges.strrl.dev/years/LiAuTraver)
 
-Here are some ideas to get you started:
+![Metrics](./github-metrics.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=LiAuTraver&theme=rogue" alt=" LiAuTraver's Contribution Graph.">
+</div>
