@@ -13,5 +13,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:             
       - name: Metrics embed
-      - uses: lowlighter/metrics@v3.34
+        uses: lowlighter/metrics@v3.34
 
