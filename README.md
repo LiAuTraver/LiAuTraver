@@ -18,5 +18,5 @@
 
 ![Metrics](./github-metrics.svg)
 
-  <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=LiAuTraver" alt=" LiAuTraver's Contribution Graph.">
+  <img height="295em" src="https://github-readme-activity-graph.vercel.app/graph?username=LiAuTraver&theme=github-compact" alt=" LiAuTraver's Contribution Graph.">
 </div>
