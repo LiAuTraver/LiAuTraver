@@ -36,6 +36,7 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 6
           plugin_languages_skipped: "codecrafters-interpreter-cpp"
+          plugin_languages_ignored: "Jupyter Notebook"
  
           # plugin_languages_recent_categories: markup, programming
           plugin_languages_sections: most-used
