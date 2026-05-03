@@ -23,7 +23,7 @@ jobs:
           # Options
           user: LiAuTraver
           template: classic
-          base: header, activity, community, metadata
+          base: header # , activity, community, metadata
           # plugin_gists: no
           # plugin_introduction: no
           # plugin_introduction_title: yes
@@ -35,7 +35,7 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_limit: 6
-          plugin_languages_skipped: "codecrafters-interpreter-cpp"
+          plugin_languages_skipped: "codecrafters-interpreter-cpp" # dup of loxcpp
           plugin_languages_ignored: "Jupyter Notebook"
  
           # plugin_languages_recent_categories: markup, programming
