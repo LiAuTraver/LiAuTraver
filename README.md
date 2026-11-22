@@ -28,5 +28,6 @@
   Heyo, I'm LiAuTraver. <br>
   We value handcrafted code and carefully reviewed, AI-assisted work - not unvetted "vibe-coded" slop. assist, not replace. <br>
   Due to the rampant AI scrapers and the growing wave of low-effort generated code on GitHub, most of my repositories are now private.<br>
-  I’m considering migrating to alternatives like Exa's Forgejo.
+  I’m considering migrating to alternatives like Exa's Forgejo.<br>
+  ![handmade-network-logo](handmade-network-logo.svg]
 <div align="center">
